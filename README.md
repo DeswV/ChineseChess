@@ -1,6 +1,6 @@
 [>English version here<](./README-en.md)
 
-![screenshot](C:\My Files\ChineseChess\images\screenshot.png)
+![screenshot](images\screenshot.png)
 
 ### 简介
 
@@ -10,7 +10,7 @@
 
 ### 如何构建
 
-如果你从未了解过Qt，那么获取Qt库的最简单的方法是使用[vcpkg]([microsoft/vcpkg: C++ Library Manager for Windows, Linux, and MacOS (github.com)](https://github.com/microsoft/vcpkg))。
+如果你从未了解过Qt，那么获取Qt库的最简单的方法是使用[vcpkg](https://github.com/microsoft/vcpkg)。
 
 1. 安装vcpkg
 
@@ -39,4 +39,4 @@
 
    克隆该仓库，用Visual Studio打开根目录，Visual Studio将会自动识别CMake项目并使用vcpkg。按下Ctrl+F5即可构建运行。
 
-   也可以不使用Visual Studio，具体可参考[vcpkg的使用说明]([microsoft/vcpkg: C++ Library Manager for Windows, Linux, and MacOS (github.com)](https://github.com/microsoft/vcpkg))。
+   也可以不使用Visual Studio，具体可参考[vcpkg的使用说明](https://github.com/microsoft/vcpkg)。
