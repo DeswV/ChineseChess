@@ -1,6 +1,6 @@
 [>English version here<](./README-en.md)
 
-![screenshot](images\screenshot.png)
+![screenshot](images/screenshot.png)
 
 ### 简介
 
