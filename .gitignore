@@ -1,0 +1,13 @@
+.vs/
+.vscode/
+out/
+build/
+build-*/
+x64/
+CMakePresets.json
+CMakeUserPresets.json
+CMakeSettings.json
+release/
+*.zip
+
+
